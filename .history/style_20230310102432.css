@@ -1,0 +1,14 @@
+body{
+    font-style: normal;
+    font-size: 16px;
+    font-weight: normal;
+    background-color: bisque;
+}
+
+.title{
+    color: brown;
+    text-align: center;
+}
+.text{
+    color: blueviolet;
+}
